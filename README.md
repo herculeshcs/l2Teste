@@ -18,11 +18,11 @@ API para otimização de cálculo de pacotes. Este projeto implementa um endpoin
 
 1. **Construir a imagem**:
    
-docker build -t otimizador-pacotes .
+docker build -t l2teste .
 
 2. **Executar imagem**:
 
-docker run -p 8080:8080 otimizador-pacotes
+docker run -p 8080:8080 l2teste
 
 🌐 Acesso à API
 Endpoint principal: http://localhost:8080/pack
